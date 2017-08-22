@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067431327369",
+    "firebase_url": "https://haythem-logo-quiz.firebaseio.com",
+    "project_id": "haythem-logo-quiz",
+    "storage_bucket": "haythem-logo-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067431327369:android:178020c1cb2d6d98",
+        "android_client_info": {
+          "package_name": "com.haythemstiti.LogoQuizPlaceholder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067431327369-i3ouvao367c9o6q3pcvo4ocei97gno15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtImtPD5PLgIB6gTxEDfxTu3pdWj5mmUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

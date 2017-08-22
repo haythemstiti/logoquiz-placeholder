@@ -1,0 +1,9 @@
+lastUpgrade=00937
+proj.pluginVersion=0.9.37
+proj.AppId=793342061936
+and.BundleId=com.haythemstiti.LogoQuizPlaceholder
+proj.classDir=Assets
+proj.ConstantsClassName=LogoResources
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e793342061936%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.haythemstiti.LogoQuizPlaceholder%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test2%22%3eCgkI8Nr8tosXEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test3%22%3eCgkI8Nr8tosXEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test4%22%3eCgkI8Nr8tosXEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test5%22%3eCgkI8Nr8tosXEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test6%22%3eCgkI8Nr8tosXEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
